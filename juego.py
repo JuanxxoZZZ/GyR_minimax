@@ -1,6 +1,4 @@
-print("=== Juego: Tom y Jerry ===\n")
 print("😺 Tom   vs   🐁 Jerry")
-print("Controles:")
 print("W,A,S,D = mover | k = salir\n")
 
 def tablero_vacio(): # Esta función arma un tablero vacío de 9x9 para jugar
